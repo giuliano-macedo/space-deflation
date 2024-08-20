@@ -1,0 +1,25 @@
+Space Deflation
+
+Game developed for the itch.io's 2024
+GMTK Game Jam - Built to Scale
+
+Development:
+Giuliano Oliveira de Macedo
+Abel Rocha Espinosa
+
+Art:
+Giuliano Oliveira de Macedo
+Abel Rocha Espinosa
+
+Music:
+Abel Rocha Espinosa
+
+Sound Effects:
+Giuliano Oliveira de Macedo
+Abel Rocha Espinosa
+
+Special thanks:
+Regiane and Fernanda for rooting for us
+ebitengine contributors for
+developing/mantaining ebitengine
+deep-fold.itch.io for the backgrounds
